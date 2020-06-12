@@ -1,5 +1,4 @@
 # Smartbin
-Garbage-classification
 Click on this link to download dataset from Google Drive: 
 https://drive.google.com/drive/folders/14QaaaNJOox6amLfU_BoVW_Fj_7EQKwA9 
 This dataset was merged by collecting images from previously existing datasets. 
